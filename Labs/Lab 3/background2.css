@@ -1,0 +1,10 @@
+body{
+	background-color:red;
+}
+
+.list{font-size:30px;}
+
+#bullets{
+	color:green;
+	font-style:italic;
+}

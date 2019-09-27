@@ -1,0 +1,12 @@
+body{
+	color:red;
+}
+
+.giant{
+	font-size:50px;
+}
+
+#bullets{
+	color:green;
+	font-style:italic;
+}
