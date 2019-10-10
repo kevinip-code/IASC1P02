@@ -1,0 +1,44 @@
+body{
+	background-color:black;
+}
+
+
+#wrapper{
+	position:absolute;
+	width:1000px;
+	left: 50%;
+	margin-left: -400px;
+	top: 50%;
+	margin-top: -400px;
+	background-color:green;
+}
+
+#content1{
+	float:left;
+	width:200px;
+	color: black;
+	height: 200px;
+	background-color:blue;
+	margin:0px 150px;
+}
+
+#content2{
+	float:right;
+	width:200px;
+	color: black;
+	font-weight: bold;
+	height: 200px;
+	background-color:red;
+	margin:0px 150px;
+}
+
+#content3{
+	float:left;
+	width:200px;
+	color: black;
+	height: 200px;
+	background-color:yellow;
+	margin:0px 400px;
+	clear:both;
+
+}
