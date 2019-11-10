@@ -9,12 +9,12 @@ body{
 	left: 50%;
 	margin-left: -600px;
 	top: 50%;
-	margin-top: -620px;
+	margin-top: -470px;
 	background-color:rgb(204, 204, 255);
 }
 
 #header{
-	width: 1193px;
+	width: 1194px;
 	height:160px;
 	color: black;
 	font-weight: bold;
@@ -28,7 +28,7 @@ body{
 	position: relative;
 	float:left;
 	text-align: left;
-	width:592px;
+	width:594px;
 	color: black;
 	font-weight:lighter;
 	font-family:Arial;
@@ -42,7 +42,7 @@ body{
 
 #menu{
 	width: 315px;
-	height: 1255px;
+	height: 1257px;
 	top: 0;
 	background-color: rgb(131, 131, 175);
 	border-left-style: solid;
