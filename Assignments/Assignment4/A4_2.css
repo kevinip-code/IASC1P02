@@ -1,0 +1,50 @@
+body{
+	background-image: url("homebackground.jpg");
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+a:hover{
+	color:#99d6ff;
+}
+
+.Header1{
+text-align: center;
+background-color: #bbb;
+font-size: 30px;
+display: block;
+margin: auto;
+width: 20%;
+padding: 30px;
+border-radius: 15px;
+}
+
+.column {
+  float:left;
+  text-align: center;
+  font-size: 25px;
+  width: 50%;
+  height: 150px;
+  padding: 60px;
+  border-radius: 15px;
+}
+
+.column a{
+    text-decoration: none;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.footer {
+  background-color: #f1f1f1;
+  padding: 10px;
+  text-align: left;
+  border-radius: 15px;
+}

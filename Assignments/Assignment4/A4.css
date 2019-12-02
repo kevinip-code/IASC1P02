@@ -1,0 +1,125 @@
+body{
+	background-image: url("homebackground.jpg");
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+a:hover{
+	color:#99d6ff;
+}
+
+#wrapper{
+	position:absolute;
+	width:1200px;
+	left: 50%;
+	margin-left: -600px;
+	top: 50%;
+	margin-top: -470px;
+	background-color:#f1f1f1;
+	border-radius: 15px;
+}
+
+#header{
+	width: 1194px;
+	height:130px;
+	color: black;
+	font-weight: bold;
+	background-color: #f1f1f1;
+	text-align:center;
+	border-style: solid;
+	border-radius: 15px;
+	padding-top:30px;
+}
+
+.req{
+	position: relative;
+	float:right;
+	text-align: center;
+	width:855px;
+	color: black;
+	font-weight:lighter;
+	font-size: 25px;
+	height: 60px;
+	background-color:#bbb;
+	border-left-style: hidden;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-top-style: hidden;
+	border-radius: 15px;
+	padding-left: 20px;
+	padding-top: 30px;
+}
+
+.req a{
+	text-decoration: none;
+	font-weight: bold;
+	padding-right:50px;
+}
+
+#menu{
+	margin-top: -93px;
+	width: 305px;
+	height: 1257px;
+	top: 0;
+	font-weight:bold;
+	background-color:#aaa;
+	border-left-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-radius: 15px;
+	float: left;
+	position: relative;
+	padding-left: 10px;
+}
+
+#menu input{
+	width: 291px;
+	height: 35px;
+	font-size: 18px;
+
+}
+
+#menu a {
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 20px;
+  display: block;
+	border-radius: 15px;
+}
+
+#content{
+	width: 836px;
+	height: 1124px;
+	float: right;
+	background-color: #ccc;
+	clear: both;
+	position: relative;
+	padding: 20px;
+	text-align: left;
+	border-right-style:solid;
+	border-bottom-style:solid;
+	border-radius: 25px;
+}
+
+img{
+	object-fit: cover;
+	width:800px;
+	height:500px;
+	padding-left: 18px;
+}
+#anchor{
+	font-weight: bold;
+	font-size: 18px;
+	text-align: center;
+	width:80px;
+	height:50px;
+	position:fixed;
+	background-color:rgb(71, 71, 107);
+	float:right;
+	clear:both;
+	bottom:0;
+	right:0;
+	padding-top: 10px
+}
+h3,h4{
+	color:Black;
+}
