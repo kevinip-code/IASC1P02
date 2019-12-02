@@ -1,3 +1,4 @@
+//https://www.w3schools.com/js/tryit.asp?filename=tryjs_timing_clock
 function startTime() {
   var today = new Date();
   var h = today.getHours();
@@ -14,6 +15,7 @@ function digits(i) {
   return i;
 }
 
+//https://www.w3schools.com/howto/howto_js_toggle_hide_show.asp
 function pic1(){
   var x = document.getElementById("wf1");
   if (x.style.visibility==="hidden"){
